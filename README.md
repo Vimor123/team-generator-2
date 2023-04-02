@@ -18,7 +18,7 @@ Simply compile and run the program in the terminal, type in all the names (all i
 and in no time the program will spit out all of the teams which are, of course, fairly and randomly generated. In each team there will be the same number of people, 
 or in case the number of people is not divisible by the number of teams, there will be some teams with 1 less player.
 
-Team Generator programs are now also available in C++ (now I'm a real engineer) and Lua (*~Roblox death sound effect*).
+Team Generator programs are now also available in C++ (now I'm a real engineer), Lua (*~Roblox death sound effect*) and Kotlin (Android Java).
 
 ## P.S.
 
