@@ -15,6 +15,7 @@ end
 
 if no_of_teams <= 0 or no_of_teams > no_of_players then
     print("\nInvalid number of teams")
+    os.exit()
 end
 
 local sorted_players = {}
